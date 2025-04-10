@@ -20,4 +20,6 @@
 и кнопка игры
 в игре должен отображаться текущий счёт и рекорд
 так же должен показываться следующий предмет
-![image](https://github.com/user-attachments/assets/e8938414-b8c0-4319-b2ac-dbe0c967e604)
+
+# лаб2
+![photo_2025-04-10_23-45-30](https://github.com/user-attachments/assets/dfec8946-c207-45f2-b5ea-8163c457a675)
